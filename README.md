@@ -7,15 +7,15 @@ A robust AI based **Facial Recognition-Based Attendance System** designed to aut
 # 📑 Table of Contents
 
 * [Overview](#-overview)
-* [UI Preview](#-ui-preview)
+* [🖼️ UI Preview](#%EF%B8%8F-ui-preview)
 * [Features](#-features)
 * [System Architecture](#-system-architecture)
 * [Project Structure](#-project-structure)
 * [Modules Description](#-modules-description)
-* [Data Processing Pipeline](#-data-processing-pipeline)
+* [Data Processing Pipeline](#%EF%B8%8F-data-processing-pipeline)
 * [Face Recognition Methodology](#-face-recognition-methodology)
-* [Technologies Used](#-technologies-used)
-* [How to Run](#-how-to-run)
+* [Tech Stack Used](#%EF%B8%8F-tech-stack-used)
+* [How to run this project](#%EF%B8%8F-how-to-run-this-project)
 
 ---
 
@@ -37,25 +37,25 @@ The system leverages **Deep Learning-based embeddings** for accurate face matchi
 ### 📍 Application Screens
 
 ### Main Interface :
-<img src="images/main_menu.png" width="600"/>
+<img src="images/main_menu.png" width="800"/>
 
 ### User Registration Screen :
-<img src="images/user_registration.png" width="600"/>
+<img src="images/user_registration.png" width="800"/>
 
 ### Registration Successful :
-<img src="images/user_registered.png" width="600"/>
+<img src="images/user_registered.png" width="800"/>
 
 ### Attendance Marking Initiation :
-<img src="images/mark_attendance.png" width="600"/>
+<img src="images/mark_attendance.png" width="800"/>
 
 ### Successful Attendance Marking :
-<img src="images/marked_attendance.png" width="600"/>
+<img src="images/marked_attendance.png" width="800"/>
 
 ### Duplicate Attendance Handling :
-<img src="images/already_marked.png" width="600"/>
+<img src="images/already_marked.png" width="800"/>
 
 ### Attendance Log Viewer :
-<img src="images/attendance_log.png" width="600"/>
+<img src="images/attendance_log.png" width="800"/>
 
 
 ---
@@ -200,7 +200,7 @@ facial-attendance-system/
 
 ---
 
-## 🔍 Face Recognition Methodology
+ 🔍 Face Recognition Methodology
 
 * **Embedding Model:** DeepFace (Facenet)
 * **Similarity Metric:** Cosine Similarity
