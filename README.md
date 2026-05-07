@@ -4,7 +4,7 @@ A robust AI based **Facial Recognition-Based Attendance System** designed to aut
 
 ---
 
-# 📑 Table of Contents7
+# 📑 Table of Content6
 * [Overview](#-overview)
 * [UI Preview](#%EF%B8%8F-ui-preview)
 * [Features](#-features)
@@ -36,16 +36,16 @@ The system leverages **Deep Learning-based embeddings** for accurate face matchi
 ### 📍 Application Screens
 
 ### Main Interface :
-<img src="images/main_menu.png" width="700"/>
+<img src="images/main_menu.png" width="600"/>
 
 ### User Registration Screen :
-<img src="images/user_registration.png" width="700"/>
+<img src="images/user_registration.png" width="600"/>
 
 ### Registration Successful :
-<img src="images/user_registered.png" width="700"/>
+<img src="images/user_registered.png" width="600"/>
 
 ### Attendance Marking Initiation :
-<img src="images/mark_attendance.png" width="700"/>
+<img src="images/mark_attendance.png" width="600"/>
 
 ### Successful Attendance Marking :
 <img src="images/marked_attendance.png" width="700"/>
@@ -54,7 +54,7 @@ The system leverages **Deep Learning-based embeddings** for accurate face matchi
 <img src="images/already_marked.png" width="700"/>
 
 ### Attendance Log Viewer :
-<img src="images/attendance_log.png" width="700"/>
+<img src="images/attendance_log.png" width="600"/>
 
 
 ---
