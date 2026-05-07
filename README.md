@@ -4,7 +4,7 @@ A robust AI based **Facial Recognition-Based Attendance System** designed to aut
 
 ---
 
-# 📑 Table of Content6
+# 📑 Table of Content
 * [Overview](#-overview)
 * [UI Preview](#%EF%B8%8F-ui-preview)
 * [Features](#-features)
