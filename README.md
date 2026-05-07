@@ -4,10 +4,9 @@ A robust AI based **Facial Recognition-Based Attendance System** designed to aut
 
 ---
 
-# 📑 Table of Contents
-
+# 📑 Table of Contents7
 * [Overview](#-overview)
-* [🖼️ UI Preview](#%EF%B8%8F-ui-preview)
+* [UI Preview](#%EF%B8%8F-ui-preview)
 * [Features](#-features)
 * [System Architecture](#-system-architecture)
 * [Project Structure](#-project-structure)
@@ -37,25 +36,25 @@ The system leverages **Deep Learning-based embeddings** for accurate face matchi
 ### 📍 Application Screens
 
 ### Main Interface :
-<img src="images/main_menu.png" width="800"/>
+<img src="images/main_menu.png" width="700"/>
 
 ### User Registration Screen :
-<img src="images/user_registration.png" width="800"/>
+<img src="images/user_registration.png" width="700"/>
 
 ### Registration Successful :
-<img src="images/user_registered.png" width="800"/>
+<img src="images/user_registered.png" width="700"/>
 
 ### Attendance Marking Initiation :
-<img src="images/mark_attendance.png" width="800"/>
+<img src="images/mark_attendance.png" width="700"/>
 
 ### Successful Attendance Marking :
-<img src="images/marked_attendance.png" width="800"/>
+<img src="images/marked_attendance.png" width="700"/>
 
 ### Duplicate Attendance Handling :
-<img src="images/already_marked.png" width="800"/>
+<img src="images/already_marked.png" width="700"/>
 
 ### Attendance Log Viewer :
-<img src="images/attendance_log.png" width="800"/>
+<img src="images/attendance_log.png" width="700"/>
 
 
 ---
